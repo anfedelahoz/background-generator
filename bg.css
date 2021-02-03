@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background: linear-gradient(to right, #163120, #509900 );
+}
+
+h1,h2,h3{
+    text-decoration: uppercase;
+    text-align: center;
+}
+.color-wrapper{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+}
